@@ -1,0 +1,46 @@
+Timestamp,Username,Property,Previous Value,New Value,Source
+17 Nov 2017 20:34:00 GMT,Administrator,conf.branding.SITENAME,Appian,Appian for Sorvest Bomvegselskap AS (DEV),System
+17 Nov 2017 20:34:00 GMT,Administrator,conf.plugins.ENCRYPTION_API_ACCESS_LIST,[],[],System
+17 Nov 2017 20:34:00 GMT,Administrator,conf.security.pw.MIN_PASSWORD_LENGTH,1,7,System
+17 Nov 2017 20:34:01 GMT,Administrator,conf.security.account.DEACTIVATE_AFTER_INACTIVITY,90,0,System
+17 Nov 2017 20:34:01 GMT,Administrator,conf.security.pw.MAX_PASSWORD_AGE,0,90,System
+17 Nov 2017 20:34:01 GMT,Administrator,conf.security.pw.MIN_ALPHABETIC_CHARACTERS,0,1,System
+17 Nov 2017 20:34:01 GMT,Administrator,conf.security.pw.MIN_NUMERIC_CHARACTERS,0,1,System
+17 Nov 2017 20:34:01 GMT,Administrator,conf.ldap.lowercaseusername,false,true,System
+24 Nov 2017 15:15:46 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appcino.plugin.emlutility,<deployed>,Create & Read Email Files Utilities,Admin Console
+24 Nov 2017 15:21:52 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appiancorp.gpt.ttk.processvars,<deployed>,Get and Set External Process Variables,Admin Console
+24 Nov 2017 15:23:18 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appiancorp.plugins.regexfunctions,<deployed>,Appian Regular Expression Functions,Admin Console
+24 Nov 2017 15:23:43 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.TaskServicesPlugin,<deployed>,Task Smart Services Plug-in,Admin Console
+24 Nov 2017 15:25:09 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.user.profile.picture.update,<deployed>,User Profile Picture Utilities,Admin Console
+25 Nov 2017 10:10:30 GMT,jonny.bratseth@btsignaal.com,conf.data.datasources.jdbc/ferdedevSecondary.name,<created>,jdbc/ferdedevSecondary,Admin Console
+25 Nov 2017 10:10:30 GMT,jonny.bratseth@btsignaal.com,conf.data.datasources.jdbc/ferdedevSecondary.type,<created>,SQL Server,Admin Console
+25 Nov 2017 10:10:30 GMT,jonny.bratseth@btsignaal.com,conf.data.datasources.jdbc/ferdedevSecondary.connectionUrl,<created>,jdbc:sqlserver://52.19.42.246:1433,databaseName=FerdedevSecondary
+25 Nov 2017 10:10:30 GMT,jonny.bratseth@btsignaal.com,conf.data.datasources.jdbc/ferdedevSecondary.username,<created>,ferdedev,Admin Console
+25 Nov 2017 10:10:30 GMT,jonny.bratseth@btsignaal.com,conf.data.datasources.jdbc/ferdedevSecondary.password,<created>,<masked>,Admin Console
+27 Nov 2017 11:32:08 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.groupfunctions,<deployed>,Group Functions,Admin Console
+27 Nov 2017 11:32:52 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.psshared.peoplefunctions,<deployed>,People Functions - Plug-in,Admin Console
+27 Nov 2017 13:32:52 GMT,rishiraj.maken,conf.plugins.deployment.com.appiancorp.cdtdiffutils,<deployed>,CDT Diff Utilities,Admin Console
+28 Nov 2017 09:33:58 GMT,rishiraj.maken,conf.userStartPages.DEFAULT_START_PAGE,/tempo,/sites/incident-detail,Admin Console
+1 Dec 2017 15:00:00 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.documentFromDynamicTemplate,<deployed>,Advanced Document Templating,Admin Console
+2 Dec 2017 07:16:51 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.pdftools,<deployed>,PDF Tools,Admin Console
+2 Dec 2017 07:28:05 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.DynamicDocumentGen,<deployed>,Dynamic Document Generator,Admin Console
+3 Dec 2017 04:12:07 GMT,siddharthg2@appcino.com,conf.plugins.deployment.com.appiancorp.plugins.labs,<deployed>,Appian Health Check Data Collection Plugin (Cloud),Admin Console
+3 Dec 2017 16:47:09 GMT,siddharthg2@appcino.com,conf.plugins.deployment.uuidinformationretriever,<deployed>,Content Details by UUID,Admin Console
+5 Dec 2017 10:55:28 GMT,siddharthg2@appcino.com,conf.plugins.deployment.com.appiancorp.ps.processmanager,<deployed>,Process Management Services,Admin Console
+5 Dec 2017 10:56:03 GMT,siddharthg2@appcino.com,i18n.enabledLanguages,[en_US],"[en_US, en_GB]",Admin Console
+5 Dec 2017 10:56:03 GMT,siddharthg2@appcino.com,i18n.primaryTimeZone,GMT,Europe/Oslo,Admin Console
+5 Dec 2017 11:34:26 GMT,siddharthg2@appcino.com,i18n.primaryLanguage,en_US,en_GB,Admin Console
+5 Dec 2017 12:10:10 GMT,aditiya.gupta,conf.branding.TEMPOACCENTCOLOR,#1d659c,#434342,Admin Console
+5 Dec 2017 12:10:10 GMT,aditiya.gupta,conf.branding.COLOR1,#416b88,#434342,Admin Console
+5 Dec 2017 12:11:53 GMT,aditiya.gupta,conf.branding.TEMPOACCENTCOLOR,#434342,#7a7a7a,Admin Console
+5 Dec 2017 12:11:53 GMT,aditiya.gupta,conf.branding.COLOR1,#434342,#5f5f5f,Admin Console
+6 Dec 2017 16:22:50 GMT,siddharthg2@appcino.com,conf.plugins.deployment.WebAndXMLExtensions,<deployed>,Send HTTP Request Plug-in,Admin Console
+6 Dec 2017 17:13:23 GMT,siddharthg2@appcino.com,conf.plugins.deployment.com.appiancorp.ps.db,<deployed>,Base 64 Document Database Integration Smart Services,Admin Console
+6 Dec 2017 18:11:36 GMT,siddharthg2@appcino.com,conf.plugins.deployment.com.appiancorp.ps.rest,<deployed>,Base64 Request to REST Web Service,Admin Console
+15 Dec 2017 13:35:41 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appiancorp.ps.exceltools,<deployed>,Excel Tools,Admin Console
+19 Dec 2017 06:09:32 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.AddDocumentsToZip,<deployed>,Add Documents To Zip,Admin Console
+19 Dec 2017 08:28:12 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appian.plugins.doczipper,<deployed>,Document Zipper,Admin Console
+20 Dec 2017 06:26:26 GMT,siddharthg2@appcino.com,conf.plugins.deployment.com.appiancorp.ps.processmanager,<deployed>,Process Management Services,Admin Console
+20 Dec 2017 12:40:56 GMT,siddharthg2@appcino.com,conf.plugins.deployment.copydocument,<deployed>,Copy Document Smart Service,Admin Console
+20 Dec 2017 15:38:24 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.executestoredprocedure,<deployed>,Execute Stored Procedure,Admin Console
+23 Dec 2017 10:39:07 GMT,jonny.bratseth@btsignaal.com,conf.plugins.deployment.com.appiancorp.ps.exceltools,<deployed>,Excel Tools,Admin Console
